@@ -1,4 +1,4 @@
-# Thibau
+﻿# Thibau
 
 Interested in chess engines, AI, coding, and how things work.
 
