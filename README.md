@@ -1,4 +1,3 @@
-﻿# Thibau
 
 ![GitHub stats](https://github-readme-stats-one-dun-87.vercel.app/api?username=thibaup&theme=dark&show_icons=true&hide_border=true)
 
